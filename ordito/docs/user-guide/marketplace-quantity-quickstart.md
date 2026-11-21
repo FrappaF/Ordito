@@ -2,6 +2,8 @@
 
 Marketplace accepts whole-number order quantities from 1 through 10. Open the completed model, inspect the JavaScript and tests Ordito stages from it, then run the independent acceptance cases before applying the files. This exercise runs locally with zero AI calls.
 
+Try six input cases first to see what the rule accepts. [Open the Marketplace browser demo](https://ordito-demo.pinkbream1027.chatgpt.site/marketplace/)
+
 ## Set up the example
 
 1. Download the Linux x86-64, macOS Apple Silicon, or macOS Intel archive and follow the release's first-launch instructions. [Ordito 0.1.0 downloads and checksums](https://github.com/FrappaF/Ordito/releases/tag/v0.1.0)

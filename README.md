@@ -4,7 +4,7 @@
 
 Focus on how the system should work. In Ordito, the boundaries, contracts, and behavior you define in a visual model guide what Codex or Claude Code implements. When the code is ready for review, the same model gives you the context to judge whether it fits the design.
 
-**[Download the desktop preview](#download-the-desktop-preview)** · [See the Marketplace demo](#marketplace-demo-model-to-reviewed-code) · [Try your first project without an AI account](#try-order-shop-without-an-ai-account)
+**[Download the desktop preview](#download-the-desktop-preview)** · [Open the browser demo](https://ordito-demo.pinkbream1027.chatgpt.site/) · [See the Marketplace code review](#marketplace-demo-model-to-reviewed-code) · [Try your first project without an AI account](#try-order-shop-without-an-ai-account)
 
 [![MIT license](.github/badges/license.svg)](LICENSE.txt)
 [![In development](.github/badges/status.svg)](#getting-started)
